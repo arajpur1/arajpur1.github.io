@@ -1,0 +1,69 @@
+---
+title: "Nina Rajpurohit"
+image: "frank.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: ORCiD
+    url: "https://orcid.org/0009-0004-6967-0982"
+  - label: GitHub
+    url: "https://github.com/arajpur1"
+  - label: Email
+    url: "arajpur1@jhmi.edu"
+output:
+  postcards::trestles
+---
+ 
+## About Me
+
+Nina is a PhD student at Johns Hopkins School of Medicine. Her research uses genomics and transcriptomics methodologies to better understand human brain development and disease, with a focus on psychiatric disorders.
+
+Outside of the lab, Nina has a strong interest in teaching and science communication. She has taught courses in genetics, genomics, and data science to high school and undergraduate students, and she is actively involved in outreach programs that aim to make STEM fields more accessible.
+
+
+## Education
+|:--------------------------------------------------|:----------------|
+| **Cornell University, Ithaca, NY** |
+| B.A. in Biological Sciences (Concentrations: Genetics, Computational Biology) |
+
+
+## Research Experience
+|:------------------------------------------------|:--------------------|
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
+
+
+## Teaching Experience
+|:------------------------------------------------|:--------------------|
+| [Baltimore Biocrew – International Genetically Engineered Machine (iGEM) Team] (https://bugssonline.org/kids/igem/) |
+| Instructor; Research Advisor: team research projects in synthetic biology |
+|<br>|   |
+| [Baltimore Underground Science Space] (https://bugssonline.org/) |
+| Instructor: Genetics, Molecular Biology, Personalized Genomics, Data Science	|
+|<br>|   |
+| [Center for Talented Youth, Johns Hopkins University] (https://cty.jhu.edu/) |					    
+| Instructor; Course Developer:  Genetics, Genomics	|		
+|<br>|   |
+| [Incentive Mentoring Program/Thread] (https://www.thread.org/) |
+| Academic Program Developer: SAT prep, Writing |
+|<br>|   |
+| Howard Hughes Medical Institute/Harvard University |
+| Teaching Fellow:  Life Sciences High School Outreach Program |			
+|<br>|   |
+| Harvard University							  
+| Teaching Fellow: Life Sciences 1A |		    
+
+
+## Technical Skills
+|:------------------------------------------------|:--------------------|
+|  **Experimental**  |  **Bioinformatic** |
+| bulk and sc/snRNA-seq | R and Bioconductor|
+| smallRNA-seq | bulk and sc/snRNA-seq analysis|
+| WGS | ImageJ |
+| WGBS |
+| Cell culture |
+| Molecular cloning |
+| Protein purification |
+| Enzyme kinetics assays |
+| Immunohistochemistry |
