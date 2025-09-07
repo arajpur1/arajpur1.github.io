@@ -13,7 +13,7 @@ links:
 output:
   postcards::trestles
 ---
- 
+
 ## About Me
 
 Nina is a PhD student at Johns Hopkins School of Medicine. Her research uses genomics and transcriptomics methodologies to better understand human brain development and disease, with a focus on psychiatric disorders.
@@ -22,48 +22,61 @@ Outside of the lab, Nina has a strong interest in teaching and science communica
 
 
 ## Education
-|:--------------------------------------------------|:----------------|
-| **Cornell University, Ithaca, NY** |
-| B.A. in Biological Sciences (Concentrations: Genetics, Computational Biology) |
+
+
+<font size="4"><span style="color:  #000011;">Cornell University</font><span>, Ithaca, NY<br>
+<span style="color:  #706E6E;"> B.A. in Biological Sciences<br>
+Concentrations: Genetics, Computational Biology<span>
+
 
 
 ## Research Experience
-|:------------------------------------------------|:--------------------|
-**Google Brain** | Principal Investigator | January 2018 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+<p>
+<font size="4"><a href="https://www.libd.org/"><span style="color:  #000011;"> Lieber Institute for Brain Development</span></a></font>, Baltimore, MD <br>
+<a href="https://www.libd.org/team/Joo-Heon-Shin/"><span style="color:  #515897;">  Cell Genomics group</span></a> | <span style="color: #706E6E;"> Staff Scientist in psychiatric genomics</span> 
+<p>
+
+<p>
+<font size="4"><a href="https://cellbio.hms.harvard.edu/"><span style="color:  #000011;"> Harvard Medical School</span></a></font>, Boston, MA <br>
+<a href="https://www.asbmb.org/asbmb-today/people/072023/fred-goldberg-1942-2023"><span style="color:  #515897;">  Fred Goldberg lab</span></a> |<span style="color: #706E6E;"> Research Associate in protein biochemistry of aging </span>
+<p>
+
+<p>
+<font size="4"><a href="https://www.mcb.harvard.edu/"><span style="color:  #000011;"> Harvard University</span></a></font>, Cambridge, MA <br>
+<a href="https://www.mcb.harvard.edu/directory/craig-hunter/"><span style="color:  #515897;">  Craig Hunter lab</span></a> | <span style="color: #706E6E;"> Research Associate in neurogenetics </span>
+<p>
+
+<p>
+<font size="4"><a href="https://cals.cornell.edu/molecular-biology-genetics"><span style="color:  #000011;"> Cornell University</span></a></font>, Ithaca, NY <br>
+<a href="https://cals.cornell.edu/people/andrew-g-clark"><span style="color:  #515897;">  Andrew Clark lab</span></a> | <span style="color: #706E6E;"> Undergraduate researcher in population genetics </span>
+<p>
+
 
 
 ## Teaching Experience
-|:------------------------------------------------|:--------------------|
-| [Baltimore Biocrew – International Genetically Engineered Machine (iGEM) Team] (https://bugssonline.org/kids/igem/) |
-| Instructor; Research Advisor: team research projects in synthetic biology |
-|<br>|   |
-| [Baltimore Underground Science Space] (https://bugssonline.org/) |
-| Instructor: Genetics, Molecular Biology, Personalized Genomics, Data Science	|
-|<br>|   |
-| [Center for Talented Youth, Johns Hopkins University] (https://cty.jhu.edu/) |					    
-| Instructor; Course Developer:  Genetics, Genomics	|		
-|<br>|   |
-| [Incentive Mentoring Program/Thread] (https://www.thread.org/) |
-| Academic Program Developer: SAT prep, Writing |
-|<br>|   |
-| Howard Hughes Medical Institute/Harvard University |
-| Teaching Fellow:  Life Sciences High School Outreach Program |			
-|<br>|   |
-| Harvard University							  
-| Teaching Fellow: Life Sciences 1A |		    
 
+<p>
+<font size="4"><a href="https://bugssonline.org/kids/igem/"><span style="color:  #515897;"> Baltimore Biocrew</span></a></font>, Baltimore, MD <br>
+<span style="color: #706E6E;"> Instructor and Research Advisor: team research projects in synthetic biology </span> 
+<p>
 
-## Technical Skills
-|:------------------------------------------------|:--------------------|
-|  **Experimental**  |  **Bioinformatic** |
-| bulk and sc/snRNA-seq | R and Bioconductor|
-| smallRNA-seq | bulk and sc/snRNA-seq analysis|
-| WGS | ImageJ |
-| WGBS |
-| Cell culture |
-| Molecular cloning |
-| Protein purification |
-| Enzyme kinetics assays |
-| Immunohistochemistry |
+<p>
+<font size="4"><a href="https://bugssonline.org"><span style="color:  #515897;"> Baltimore Underground Science Space</span></a></font>, Baltimore, MD <br>
+<span style="color: #706E6E;"> Instructor and Course Developer: community courses in Genomics, Data Science </span> 
+<p>
+
+<p>
+<font size="4"><a href="https://cty.jhu.edu"><span style="color:  #515897;"> Center for Talented Youth - Johns Hopkins University</span></a></font>, Baltimore, MD <br>
+<span style="color: #706E6E;"> Instructor and Course Developer: college-level courses in Genetics, Genomics </span> 
+<p>
+
+<p>
+<font size="4"><a href="https://www.mcb.harvard.edu/department/news/harvards-life-sciences-outreach-program-at-10-years/"><span style="color:  #515897;"> Howard Hughes Medical Institute/Harvard University</span></a></font>, Cambridge, MA <br>
+<span style="color: #706E6E;"> Teaching Fellow: Life Sciences High School Outreach Program </span> 
+<p>
+
+<p>
+<font size="4"><a href="https://scienceeducation.fas.harvard.edu/faq/what-are-introductory-courses-life-sciences"><span style="color:  #515897;"> Harvard University</span></a></font>, Cambridge, MA <br>
+<span style="color: #706E6E;"> Teaching Fellow: Life Sciences 1A  </span> 
+<p>
