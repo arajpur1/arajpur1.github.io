@@ -1,17 +1,22 @@
 ---
 title: "Nina Rajpurohit"
-image: "nina.png"
+image: "/Users/nina.rajpurohit/Desktop/biostat776/arajpur1.github.io/frank.jpg"
 links:
-  - label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
-    url: "https://linkedin.com/"
-  - label: '`r fontawesome::fa("orcid", fill = "#B3EE3A")` ORCiD'
-    url: "https://orcid.org/0009-0004-6967-0982"
-  - label: '`r fontawesome::fa("github", fill = "#080808")` GitHub'
-    url: "https://github.com/arajpur1"
-  - label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
-    url: "arajpur1@jhmi.edu"
+   - label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
+   - label: 'LinkedIn'
+     url: "https://linkedin.com/"
+   - label: '`r fontawesome::fa("orcid", fill = "#B3EE3A")` ORCiD'
+   - label: 'ORCiD'
+     url: "https://orcid.org/0009-0004-6967-0982"
+   - label: '`r fontawesome::fa("github", fill = "#080808")` GitHub'
+   - label: 'GitHub'
+     url: "https://github.com/arajpur1"
+   - label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
+   - label: 'Email'
+     url: "arajpur1@jhmi.edu"
 output:
-  postcards::trestles
+  postcards::trestles:
+    self_contained: true
 ---
 
 
@@ -21,7 +26,7 @@ Nina is a PhD student at Johns Hopkins School of Medicine. Her research uses gen
 
 Outside of the lab, Nina has a strong interest in teaching and science communication. She has taught courses in genetics, genomics, and data science to high school and undergraduate students, and she is actively involved in outreach programs that aim to make STEM fields more accessible.
 
-Nina doesn't have much of an online presence right now (see: barely filled out LinkedIn and empty ORCiD), but maybe this is a first step in that direction!
+Nina doesn't have much of an online presence right now, but maybe this is a first step in that direction!
 
 
 ## Education
@@ -36,49 +41,41 @@ Concentrations: Genetics, Computational Biology<span>
 ## Research Experience
 
 
-<font size="4"><a href="https://www.libd.org/"><span style="color:  #000011;"> Lieber Institute for Brain Development</span></a></font>, Baltimore, MD <br>
-<a href="https://www.libd.org/team/Joo-Heon-Shin/"><span style="color:  #515897;">  Cell Genomics group</span></a> | <span style="color: #706E6E;"> Staff Scientist in psychiatric genomics</span> 
-
+<font size="4"><a href="https://www.libd.org/"><span style="color:  #000011;"> Lieber Institute for Brain Development</span></a></font>    📍Baltimore, MD <br>
+<a href="https://www.libd.org/team/Joo-Heon-Shin/"><span style="color:  #515897;">  Cell Genomics group</span></a>  🧠   | <span style="color: #706E6E;"> Staff Scientist in psychiatric genomics</span>  
 
 
 <font size="4"><a href="https://cellbio.hms.harvard.edu/"><span style="color:  #000011;"> Harvard Medical School</span></a></font>     📍Boston, MA <br>
-<a href="https://www.asbmb.org/asbmb-today/people/072023/fred-goldberg-1942-2023"><span style="color:  #515897;">  Fred Goldberg lab</span></a> |<span style="color: #706E6E;"> Research Associate in protein biochemistry of aging </span>
+<a href="https://www.asbmb.org/asbmb-today/people/072023/fred-goldberg-1942-2023"><span style="color:  #515897;">  Fred Goldberg lab</span></a>   🐁   |<span style="color: #706E6E;"> Research Associate in aging-related protein biochemistry </span>  
 
 
-
-<font size="4"><a href="https://www.mcb.harvard.edu/"><span style="color:  #000011;"> Harvard University</span></a></font>, Cambridge, MA <br>
-<a href="https://www.mcb.harvard.edu/directory/craig-hunter/"><span style="color:  #515897;">  Craig Hunter lab</span></a> | <span style="color: #706E6E;"> Research Associate in neurogenetics</span>
-
+<font size="4"><a href="https://www.mcb.harvard.edu/"><span style="color:  #000011;"> Harvard University</span></a></font>    📍Cambridge, MA <br>
+<a href="https://www.mcb.harvard.edu/directory/craig-hunter/"><span style="color:  #515897;">  Craig Hunter lab</span></a>  𓆓   | <span style="color: #706E6E;"> Research Associate in neurogenetics</span>  
 
 
-<font size="4"><a href="https://cals.cornell.edu/molecular-biology-genetics"><span style="color:  #000011;"> Cornell University</span></a></font>, Ithaca, NY <br>
-<a href="https://cals.cornell.edu/people/andrew-g-clark"><span style="color:  #515897;">  Andrew Clark lab</span></a> | <span style="color: #706E6E;"> Undergraduate researcher in population genetics</span>
-
+<font size="4"><a href="https://cals.cornell.edu/molecular-biology-genetics"><span style="color:  #000011;"> Cornell University</span></a></font>     📍Ithaca, NY <br>
+<a href="https://cals.cornell.edu/people/andrew-g-clark"><span style="color:  #515897;">  Andrew Clark lab</span></a>  🪰   | <span style="color: #706E6E;"> Undergraduate researcher in population genetics</span>  
 
 
 
 ## Teaching Experience
 
 
-<font size="4"><a href="https://bugssonline.org/kids/igem/"><span style="color:  #515897;"> Baltimore Biocrew (iGEM team)</span></a></font>, Baltimore, MD <br>
+<font size="4"><a href="https://bugssonline.org/kids/igem/"><span style="color:  #515897;"> Baltimore Biocrew (iGEM team)</span></a></font>,     📍Baltimore, MD <br>
 <span style="color: #706E6E;"> Instructor and Research Advisor: team research projects in synthetic biology</span> 
 
 
-
-<font size="4"><a href="https://bugssonline.org"><span style="color:  #515897;"> Baltimore Underground Science Space</span></a></font>, Baltimore, MD <br>
+<font size="4"><a href="https://bugssonline.org"><span style="color:  #515897;"> Baltimore Underground Science Space</span></a></font>,     📍Baltimore, MD <br>
 <span style="color: #706E6E;"> Instructor and Course Developer: community courses in Genomics, Data Science</span> 
 
 
-
-<font size="4"><a href="https://cty.jhu.edu"><span style="color:  #515897;"> Center for Talented Youth - Johns Hopkins University</span></a></font>, Baltimore, MD <br>
+<font size="4"><a href="https://cty.jhu.edu"><span style="color:  #515897;"> Center for Talented Youth - Johns Hopkins University</span></a></font>,     📍Baltimore, MD <br>
 <span style="color: #706E6E;"> Instructor and Course Developer: college-level courses in Genetics, Genomics</span> 
 
 
-
-<font size="4"><a href="https://www.mcb.harvard.edu/department/news/harvards-life-sciences-outreach-program-at-10-years/"><span style="color:  #515897;"> Howard Hughes Medical Institute/Harvard University</span></a></font>, Cambridge, MA <br>
+<font size="4"><a href="https://www.mcb.harvard.edu/department/news/harvards-life-sciences-outreach-program-at-10-years/"><span style="color:  #515897;"> Howard Hughes Medical Institute/Harvard University</span></a></font>,     📍Cambridge, MA <br>
 <span style="color: #706E6E;"> Teaching Fellow: Life Sciences High School Outreach Program</span> 
 
 
-
-<font size="4"><a href="https://scienceeducation.fas.harvard.edu/faq/what-are-introductory-courses-life-sciences"><span style="color:  #515897;"> Harvard University</span></a></font>, Cambridge, MA <br>
+<font size="4"><a href="https://scienceeducation.fas.harvard.edu/faq/what-are-introductory-courses-life-sciences"><span style="color:  #515897;"> Harvard University</span></a></font>,     📍Cambridge, MA <br>
 <span style="color: #706E6E;"> Teaching Fellow: Life Sciences 1A </span> 
